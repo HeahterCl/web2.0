@@ -1,4 +1,4 @@
-h1, h2, h3, h4{
+h1, h2, h3, h4, h5{
 	font-family: Century Gothic;
 	font-size: 18pt;
 	font-weight: normal;
@@ -14,13 +14,13 @@ h1{
 }
 img{
 	transition: width 2s;
-	height: 200px;
+	height: 220px;
 	width: 200px;
 	overflow: hidden;
 }
 img:hover{
 	width: auto;
-	height: 250px;
+	height: 400px;
 }
 .showImg ul{
 	list-style: none;
@@ -30,7 +30,7 @@ img:hover{
 }
 div.showImg{
 	width: auto;
-	height: 250px;
+	height: 400px;
 	margin: 0px;
 }
 body{
